@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rapfi5
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently learning python
 - 💞️ I’m not yet looking to collaborate on a project
 - 📫 You can contact me on discord : @rapfi5
 - 😄 Pronouns: He/Him
